@@ -1,9 +1,12 @@
 this is just a readme file.
 here is just for git test.
 Now, we are join in github.
+<<<<<<< HEAD
 The dev branch is created here.
 Create branch is simple and quick.
 Learn --no-ff mode.
 Git merge with Foward mode.
 mode test
 content test is bug fixed here.
+This modify is made by branch.
+
